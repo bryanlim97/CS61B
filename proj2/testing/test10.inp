@@ -1,0 +1,30 @@
+#Check after 25 jumps if the game is over.
+java -ea ataxx.Main
+manual blue
+start
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+@<Draw.

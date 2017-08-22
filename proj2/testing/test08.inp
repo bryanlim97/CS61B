@@ -1,0 +1,6 @@
+#Test the speed of AI.
+java -ea ataxx.Main
+@time 10
+auto red
+start
+@red...

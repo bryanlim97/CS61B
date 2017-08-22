@@ -1,0 +1,6 @@
+L Here -23.7 29.3
+L Middle -3.2 22.5146
+L There -1.2 342.222
+
+R Here A_Very_Simple_Road 1.0 WE Middle
+R Middle A_Very_Simple_Road 2.0 WE There

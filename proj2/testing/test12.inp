@@ -1,0 +1,17 @@
+# Checks that clear resets everything.
+java -ea ataxx.Main
+auto red
+block b1
+clear
+start
+dump
+@<===
+@<  r - - - - - b
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  - - - - - - -
+@<  b - - - - - r
+@<===
+quit

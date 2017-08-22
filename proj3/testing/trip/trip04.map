@@ -1,0 +1,22 @@
+L Berkeley -13.2 11.1
+L A1 -12.2 11.0
+L A2 -15.55 122.22
+L A3a -12.1 2611.34
+L A3 -124.2 122.4
+L My_House -560.7 23.2
+L A4 -1.2 13.32
+L A4a -11.3 2575.95
+L A4b -622.1 2570.59
+L Tause -13.1 25.134
+L A6 -233.5 4403.1
+
+R Berkeley Telegraph_Ave 1500.1 NS A1
+R A1 Hawthorne 122.0 NS A2
+R A2 Ashby_Ave 420.2 NS A3a
+R A3a Crenshaw 2.23 WE A3
+R A3 I-405 1.12 WE My_House
+R My_House PV_Blvd 327.901 NS A4
+R A4 Anza 2.022 SN A4a
+R A4a Calle 4.462 EW A4b
+R A4b PCH 12.11 EW A6
+R Tause Lomita 44.01 SN A6

@@ -1,0 +1,39 @@
+#Makes sure that jumps during setup do NOT count towards the jump limit.
+java -ea ataxx.Main
+manual blue
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+a7-a5
+a1-a3
+a5-a7
+a3-a1
+auto red
+auto blue
+start
+@red...

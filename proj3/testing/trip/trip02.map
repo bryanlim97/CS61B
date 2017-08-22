@@ -1,0 +1,22 @@
+L Torrance -67.99 11.16
+L A1 -50.24 34.16
+L A2 -54.14 25.94
+L A3a -55.61 8.34
+L A3 -58.35 57.08
+L Berkeley -33.56 42.13
+L A4 -87 10.16
+L A4a -79.18 1.95
+L A4b -34.74 1.59
+L Heaven -2.68 2551.99
+L A6 -33.4 222.21
+
+R Torrance The_405 0.22 NS A1
+R A1 A_Long_Winding_Road 1.1 SN A2
+R A2 Sad_Lane 2.1 WE A3a
+R A3a Tired 15.0 EW A3
+R A3 Another_Long_Road 77.2 EW Berkeley
+R Berkeley US-420 327.2 SN A4
+R A4 I_Am_Sad 124.1 NS A4a
+R A4a Hilfinger_Road 2.2 WE A4b
+R A4b Memory_Lane 4.4 NS A6
+R Heaven CA-1 0.3 EW A6
